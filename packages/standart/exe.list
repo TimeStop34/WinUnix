@@ -1,0 +1,12 @@
+.idata;
+.text;
+.data;
+.bss;
+.rdata;
+.pdata;
+.pdata;
+.xdata;
+.CRT;
+.tls;
+.rsrc;
+.reloc;
